@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "/home/anirudh/projects/api"
+		},
+		{
+			"path": "/home/anirudh/projects/NLP"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
